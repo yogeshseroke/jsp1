@@ -1,0 +1,73 @@
+@charset "ISO-8859-1";
+header
+{
+	height:1000px;
+	background-image:url("miura.jpg");
+    background-size:cover;
+	font-size:30px;
+	color:white;
+	background-repeat:no-repeat;
+}
+header:hover
+{
+	height:1000px;
+	background-image:url("hayabusa.jpg");
+    background-size:cover;
+	font-size:30px;
+	color:white;
+	background-repeat:no-repeat;
+}
+section
+{
+	height:500px;
+	font:black;
+	font-size:25px;
+	background-image:url("hayabusa2.jpg");
+	background-size:cover;
+	
+	background-repeat:no-repeat;
+}
+section:hover
+{
+	font-size:25px;
+	color:white;
+	background-image:url("design.gif");
+	background-position:center;
+	height:600px;
+}
+header a
+{
+	text-decoration:none;
+	color:green;
+	
+}
+footer
+{
+	font:white;
+	background-color:red;
+	
+	background-image:url("hayabusa.jpg");
+	background-size:cover;
+}
+
+#a1
+{
+	color:orange;
+
+}
+#a2
+{
+	color:yellow;
+}
+#a3
+{
+	color:green;
+}
+#a4
+{
+	color:red;
+}
+#a5
+{
+	color:white;
+}
